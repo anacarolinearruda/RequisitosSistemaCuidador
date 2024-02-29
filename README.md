@@ -14,15 +14,18 @@ O sistema de contratação de cuidadores de idosos é uma plataforma online proj
 **Cadastro de Perfis:**
 
 Cuidadores e idosos podem criar perfis detalhados, fornecendo informações pessoais, históricos profissionais e médicos, preferências e necessidades específicas de cuidados.
-Busca e Correspondência:
+
+**Busca e Correspondência:**
 
 Uma ferramenta de pesquisa avançada permite que os usuários encontrem cuidadores com base em critérios específicos, como localização, experiência e disponibilidade. Os idosos ou seus familiares podem visualizar perfis de cuidadores e entrar em contato com eles através da plataforma.
-Avaliação e Feedback:
+
+**Avaliação e Feedback:**
 
 Os idosos podem avaliar a qualidade dos cuidadores após o serviço prestado, fornecendo feedback valioso para outros usuários. Isso ajuda a garantir a qualidade e confiabilidade dos cuidadores na plataforma.
 Agendamento e Comunicação:
 
 Recursos de agendamento permitem que os cuidadores definam suas disponibilidades e os idosos reservem horários de cuidado. Ferramentas de comunicação integradas facilitam a interação entre cuidadores e idosos/familiares.
-Segurança e Privacidade:
+
+**Segurança e Privacidade:**
 
 O sistema implementa medidas robustas de segurança de dados para proteger as informações pessoais e confidenciais dos usuários, garantindo conformidade com regulamentações de proteção de dados.
